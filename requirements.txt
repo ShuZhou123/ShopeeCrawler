@@ -1,0 +1,9 @@
+PyQt5==5.15.4  # 界面
+requests==2.28.1  # 请求
+pyinstaller==5.3  # 打包应用为exe
+# beautifulsoup4==4.11.1
+# lxml==4.9.1
+pandas==1.4.3  # 保存csv
+numpy=1.23.2  # 保存csv
+opencv-python=4.4.0.46  # 图片相似度
+scikit-image==0.19.3  # 图片相似度
